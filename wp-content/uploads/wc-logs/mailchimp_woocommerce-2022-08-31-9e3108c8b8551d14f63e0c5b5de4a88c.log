@@ -1,0 +1,187 @@
+2022-08-31T15:05:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1141
+2022-08-31T15:05:19+00:00 NOTICE product_submit.error :: addStoreProduct :: #1141 :: Error Code 500 :: CURL error :: Could not resolve host: us10.api.mailchimp.com on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-08-31T15:47:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 897
+2022-08-31T15:48:01+00:00 NOTICE product_submit.success :: updateStoreProduct :: #897
+2022-08-31T16:21:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 888
+2022-08-31T16:21:56+00:00 NOTICE product_submit.error :: addStoreProduct :: #888 :: Error Code 500 :: CURL error :: Could not resolve host: us10.api.mailchimp.com on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-08-31T16:26:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 910
+2022-08-31T16:26:12+00:00 NOTICE product_submit.error :: addStoreProduct :: #910 :: Error Code 500 :: CURL error :: Could not resolve host: us10.api.mailchimp.com on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-08-31T18:37:31+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-31T18:37:50+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-31T18:37:58+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-31T18:38:41+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-31T21:10:45+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-31T21:10:54+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-31T21:10:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2022-08-31T21:10:54+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Aug 31, 2022 9:10 PM
+2022-08-31T21:10:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2022-08-31T21:11:00+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2022-08-31T21:11:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2022-08-31T21:11:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2022-08-31T21:11:02+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2022-08-31T21:11:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 888
+2022-08-31T21:11:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 889
+2022-08-31T21:11:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 897
+2022-08-31T21:11:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 910
+2022-08-31T21:11:03+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1141
+2022-08-31T21:11:05+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2022-08-31T21:11:14+00:00 NOTICE product_submit.success :: updateStoreProduct :: #888
+2022-08-31T21:11:17+00:00 NOTICE product_submit.success :: updateStoreProduct :: #897
+2022-08-31T21:11:25+00:00 NOTICE product_submit.success :: updateStoreProduct :: #889
+2022-08-31T21:11:42+00:00 NOTICE product_submit.success :: updateStoreProduct :: #910
+2022-08-31T21:12:01+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1141
+2022-08-31T21:12:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2022-08-31T21:12:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 2
+2022-08-31T21:12:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order queued :: obj_id 1276
+2022-08-31T21:12:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order queued :: obj_id 1277
+2022-08-31T21:12:14+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2022-08-31T21:16:32+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-08-31T21:16:32+00:00 ERROR order_submit.error :: addStoreOrder :: #1277 :: Error Code 500 :: CURL error :: Could not resolve host: us10.api.mailchimp.com on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-08-31T21:16:33+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 9:16 PM (total time: 00:05:39)
+2022-08-31T21:22:01+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 9:22 PM (total time: 00:11:07)
+2022-08-31T21:28:03+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 9:28 PM (total time: 00:17:09)
+2022-08-31T21:34:03+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 9:34 PM (total time: 00:23:09)
+2022-08-31T21:41:54+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 9:41 PM (total time: 00:31:00)
+2022-08-31T21:48:14+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 9:48 PM (total time: 00:37:20)
+2022-08-31T22:15:21+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:15 PM (total time: 01:04:27)
+2022-08-31T22:20:30+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:20 PM (total time: 01:09:36)
+2022-08-31T22:26:07+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:26 PM (total time: 01:15:13)
+2022-08-31T22:31:44+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:31 PM (total time: 01:20:50)
+2022-08-31T22:37:38+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:37 PM (total time: 01:26:44)
+2022-08-31T22:43:50+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:43 PM (total time: 01:32:56)
+2022-08-31T22:49:53+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 10:49 PM (total time: 01:38:59)
+2022-08-31T23:04:53+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:04 PM (total time: 01:53:59)
+2022-08-31T23:06:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-08-31T23:06:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1415
+2022-08-31T23:06:45+00:00 NOTICE debug :: Order ID 1415 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-08-31T23:11:08+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-08-31T23:11:08+00:00 ERROR member.sync :: sibybakary522@gmail.com :: Error Code 500 :: CURL error :: Could not resolve host: us10.api.mailchimp.com on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-08-31T23:11:08+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-08-31T23:11:08+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:11 PM (total time: 02:00:14)
+2022-08-31T23:16:33+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:16 PM (total time: 02:05:39)
+2022-08-31T23:22:35+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:22 PM (total time: 02:11:41)
+2022-08-31T23:28:14+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:28 PM (total time: 02:17:20)
+2022-08-31T23:33:20+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:33 PM (total time: 02:22:26)
+2022-08-31T23:38:40+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:38 PM (total time: 02:27:46)
+2022-08-31T23:44:04+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:44 PM (total time: 02:33:10)
+2022-08-31T23:49:13+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:49 PM (total time: 02:38:19)
+2022-08-31T23:55:14+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 31, 2022 11:55 PM (total time: 02:44:20)

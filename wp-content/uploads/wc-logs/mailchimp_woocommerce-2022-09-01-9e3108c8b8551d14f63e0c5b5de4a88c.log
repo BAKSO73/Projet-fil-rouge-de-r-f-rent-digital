@@ -1,0 +1,32 @@
+2022-09-01T00:01:14+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:01 AM (total time: 02:50:20)
+2022-09-01T00:07:13+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:07 AM (total time: 02:56:19)
+2022-09-01T00:13:14+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:13 AM (total time: 03:02:20)
+2022-09-01T00:19:15+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:19 AM (total time: 03:08:21)
+2022-09-01T00:24:25+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:24 AM (total time: 03:13:31)
+2022-09-01T00:30:09+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:30 AM (total time: 03:19:15)
+2022-09-01T00:35:23+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:35 AM (total time: 03:24:29)
+2022-09-01T00:36:00+00:00 NOTICE sync.completed :: Finished Sync :: Thu, Sep 1, 2022 12:36 AM (total time: 03:25:06)
+2022-09-01T00:36:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2022-09-01T00:36:10+00:00 ERROR webhook :: <p>url: Webhooks are no good without a valid URL. Please enter one.</p>
+2022-09-01T14:46:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-09-01T14:46:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1429
+2022-09-01T14:46:22+00:00 NOTICE debug :: Order ID 1429 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-09-01T14:47:16+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-09-01T14:47:38+00:00 ERROR member.sync :: sibybakary522@gmail.com :: Error Code 500 :: CURL error :: Failed to connect to us10.api.mailchimp.com port 443: Timed out on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-09-01T14:48:26+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-09-01T15:06:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-09-01T15:06:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1430
+2022-09-01T15:06:20+00:00 NOTICE debug :: Order ID 1430 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-09-01T15:07:16+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-09-01T15:07:37+00:00 ERROR member.sync :: sibybakary522@gmail.com :: Error Code 500 :: CURL error :: Failed to connect to us10.api.mailchimp.com port 443: Timed out on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-09-01T15:08:24+00:00 ERROR api.list :: Error retrieving list for double_optin check

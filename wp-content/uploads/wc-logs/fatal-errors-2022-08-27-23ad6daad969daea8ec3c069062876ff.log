@@ -1,0 +1,23 @@
+2022-08-27T16:42:38+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php:48
+Stack trace:
+#0 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(48): ReflectionClass->getMethod('get_site_editor...')
+#1 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(129): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(67): Elementor\Core\Common\Modules\Finder\Categories\Create->create_item_url_by_document_class('ElementorPro\\Mo.. in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php on line 48
+
+2022-08-27T16:44:40+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php:48
+Stack trace:
+#0 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(48): ReflectionClass->getMethod('get_site_editor...')
+#1 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(129): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(67): Elementor\Core\Common\Modules\Finder\Categories\Create->create_item_url_by_document_class('ElementorPro\\Mo.. in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php on line 48
+
+2022-08-27T16:45:40+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php:48
+Stack trace:
+#0 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(48): ReflectionClass->getMethod('get_site_editor...')
+#1 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(129): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(67): Elementor\Core\Common\Modules\Finder\Categories\Create->create_item_url_by_document_class('ElementorPro\\Mo.. in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php on line 48
+
+2022-08-27T20:52:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp2\htdocs\koudijs_services\wp-admin\includes\nav-menu.php on line 11
+

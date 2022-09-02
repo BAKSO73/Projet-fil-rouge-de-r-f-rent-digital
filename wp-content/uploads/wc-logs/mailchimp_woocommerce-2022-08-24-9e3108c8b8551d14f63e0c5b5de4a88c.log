@@ -1,0 +1,217 @@
+2022-08-24T01:15:15+00:00 NOTICE admin :: syncing webhooks for existing plugin
+2022-08-24T01:54:51+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-24T01:54:54+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-24T01:54:58+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-24T01:55:02+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-24T01:55:03+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-24T01:55:07+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-24T01:55:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2022-08-24T01:55:07+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Aug 24, 2022 1:55 AM
+2022-08-24T01:55:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2022-08-24T01:55:10+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2022-08-24T01:55:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2022-08-24T01:55:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2022-08-24T01:55:12+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2022-08-24T01:55:14+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2022-08-24T01:55:16+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2022-08-24T01:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2022-08-24T01:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 888
+2022-08-24T01:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 889
+2022-08-24T01:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 897
+2022-08-24T01:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 910
+2022-08-24T01:55:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1141
+2022-08-24T01:55:23+00:00 NOTICE product_submit.success :: addStoreProduct :: #888
+2022-08-24T01:55:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #889
+2022-08-24T01:55:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #897
+2022-08-24T01:55:29+00:00 NOTICE product_submit.success :: addStoreProduct :: #910
+2022-08-24T01:55:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #1141
+2022-08-24T01:57:49+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-24T01:57:51+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 63057ba084432
+            [is_syncing] => 1
+            [platform] => woocommerce
+            [list_id] => ad3b30d521
+            [name] => Services de koudijs
+            [domain] => http://localhost/koudijs_services
+            [email_address] => sibybakary522@gmail.com
+            [currency_code] => XOF
+            [money_format] => CFA
+            [primary_locale] => fr_FR
+            [timezone] => Africa/Bamako
+            [phone] => 73680454
+            [address] => Array
+                (
+                    [address1] => Malinka
+                    [city] => BAMAKO
+                    [province] => Bamako
+                    [postal_code] => 95-100
+                    [country] => ML
+                    [country_code] => ML
+                    [phone] => 73680454
+                    [company] => Services de koudijs
+                )
+
+        )
+
+)
+
+2022-08-24T01:57:54+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2022-08-24T01:57:54+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2022-08-24T01:57:57+00:00 ERROR webhook :: <p>url: Webhooks are no good without a valid URL. Please enter one.</p>
+2022-08-24T22:59:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-08-24T22:59:53+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2022-08-24T22:59:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-08-24T23:00:02+00:00 NOTICE member.sync :: Updated Member sibybakary522@gmail.com :: Array
+(
+    [status] => transactional
+    [language] => 
+    [merge_fields] => Array
+        (
+            [LNAME] => bienvenue
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-08-24T23:00:07+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:00 PM (total time: 21:05:00)
+2022-08-24T23:05:09+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:05 PM (total time: 21:10:02)
+2022-08-24T23:10:15+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:10 PM (total time: 21:15:08)
+2022-08-24T23:15:16+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:15 PM (total time: 21:20:09)
+2022-08-24T23:21:19+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:21 PM (total time: 21:26:12)
+2022-08-24T23:27:09+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:27 PM (total time: 21:32:02)
+2022-08-24T23:33:56+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:33 PM (total time: 21:38:49)
+2022-08-24T23:39:33+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:39 PM (total time: 21:44:26)
+2022-08-24T23:45:01+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:45 PM (total time: 21:49:54)
+2022-08-24T23:51:17+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:51 PM (total time: 21:56:10)
+2022-08-24T23:57:33+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Aug 24, 2022 11:57 PM (total time: 22:02:26)

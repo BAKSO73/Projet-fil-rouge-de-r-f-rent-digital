@@ -1,0 +1,4 @@
+2022-08-31T21:13:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php on line 2188
+
+2022-08-31T21:14:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php on line 2188
+

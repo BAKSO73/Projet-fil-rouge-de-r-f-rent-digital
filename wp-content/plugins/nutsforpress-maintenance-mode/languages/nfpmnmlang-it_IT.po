@@ -1,0 +1,828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-07-17 17:29+0200\n"
+"PO-Revision-Date: 2022-07-17 17:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/nfpmnm-add-notice.php:66
+msgid "Maintenance Mode is active"
+msgstr "Modalità Manutenzione attiva"
+
+#: admin/includes/nfpmnm-add-user-fields.php:34
+msgid "Login on Maintenance Mode"
+msgstr "Accesso in Modalità Manutenzione"
+
+#: admin/includes/nfpmnm-add-user-fields.php:40
+msgid "Allow Login"
+msgstr "Consenti Accesso"
+
+#: admin/includes/nfpmnm-add-user-fields.php:54
+msgid ""
+"This Administrator can keep on working and login even when Maintenance Mode "
+"is switched on"
+msgstr ""
+"Questo Amministratore può continuare a lavorare e ad effettuare il login "
+"anche quando la Modalità Manutenzione è attivata"
+
+#: admin/includes/nfpmnm-add-user-fields.php:55
+msgid ""
+"If no Administrators have this checkbox flagged, all of them can keep on "
+"working and login even if the Maintenance Mode is switched on; if one or "
+"some Administrators have this checkbox flagged, the others are instantly "
+"logged out and they are also prevented from login"
+msgstr ""
+"Se nessun amministratore ha contrassegnato questa casella di controllo, "
+"tutti possono continuare a lavorare e a effettuare il login anche se la "
+"Modalità Manutenzione è attivata; se uno o alcuni degli amministratori hanno "
+"contrassegnato questa casella di controllo, gli altri vengono immediatamente "
+"disconnessi e viene loro impedito di effettuare il login"
+
+#: admin/includes/nfpmnm-check-after-login.php:74
+msgid ""
+"Until Maintenance Mode is active, only these Administrators are allowed to "
+"login"
+msgstr ""
+"Finché la modalità di manutenzione è attiva, solo questi amministratori sono "
+"autorizzati a effettuare il login"
+
+#: admin/includes/nfpmnm-check-after-login.php:91
+msgid "Until Maintenance Mode is active, you are not allowed to login"
+msgstr ""
+"Finché la modalità di manutenzione è attiva, non è possibile effettuare il "
+"login"
+
+#: admin/nfpmnm-settings-content.php:139
+msgid ""
+"All the Administrators are currently allowed to login; if you want to allow "
+"to login only some of them, please move to their profiles and find the "
+"\"Allow Login\" checkbox"
+msgstr ""
+"Tutti gli amministratori sono attualmente autorizzati ad accedere; se "
+"desideri consentire l'accesso solo ad alcuni di essi, spostati nei loro "
+"profili e trova la casella di controllo \"Consenti Accesso\""
+
+#: admin/nfpmnm-settings-content.php:162
+msgid "Maintenance Mode"
+msgstr "Modalità Manutenzione"
+
+#: admin/nfpmnm-settings-content.php:171
+msgid ""
+"If switched on, all the visitors that are not logged in as Administrator "
+"will be redirected to the page defined below"
+msgstr ""
+"Se attivata, tutti i visitatori che non hanno effettuato l'accesso come "
+"Amministratore saranno reindirizzati alla pagina definita di seguito"
+
+#: admin/nfpmnm-settings-content.php:181
+msgid "Landing Page"
+msgstr "Pagina di destinazione"
+
+#: admin/nfpmnm-settings-content.php:190
+msgid ""
+"Select the page you want to redirect the visitors that are not logged in as "
+"Administrator"
+msgstr ""
+"Selezionare la pagina a cui si desidera reindirizzare i visitatori che non "
+"hanno effettuato l'accesso come Amministratore"
+
+#: admin/nfpmnm-settings-content.php:200
+msgid "Redirect Sitemap"
+msgstr "Reindirizzamento Sitemap"
+
+#: admin/nfpmnm-settings-content.php:209
+msgid ""
+"If switched on, the default WordPress sitemap page and the \"NutsForPress "
+"Indexing and SEO\" sitemap page will redirect all the visitors that are not "
+"logged in as Administrator to the above page too"
+msgstr ""
+"Se attivata, la pagina della sitemap predefinita di WordPress e la pagina "
+"della sitemap \"NutsForPress Indexing and SEO\" reindirizzeranno tutti i "
+"visitatori che non hanno effettuato l'accesso come Amministratore alla "
+"pagina di cui sopra"
+
+#: admin/nfpmnm-settings-content.php:219
+msgid "Hide REST API"
+msgstr "Nascondi l'API REST"
+
+#: admin/nfpmnm-settings-content.php:228
+msgid ""
+"If switched on, the REST API pages will show an authentication error for all "
+"the visitors that are not logged in as Administrator"
+msgstr ""
+"Se attivata, le pagine REST API mostreranno un errore di autenticazione per "
+"tutti i visitatori che non hanno effettuato l'accesso come Amministratore"
+
+#: admin/nfpmnm-settings-content.php:242
+msgid "Administrators allowed to login"
+msgstr "Amministratori autorizzati ad accedere"
+
+#: admin/nfpmnm-settings-content.php:261
+msgid ""
+"Click on the arrow to get a list of the Administrators currently allowed to "
+"login when Maintenance Mode is switched on"
+msgstr ""
+"Fare clic sulla freccia per ottenere un elenco degli Amministratori "
+"attualmente autorizzati ad accedere quando la Modalità Manutenzione è "
+"attivata"
+
+#: admin/nfpmnm-settings-content.php:273
+msgid "Administrators allowed list"
+msgstr "Elenco degli amministratori ammessi"
+
+#: public/includes/nfpmnm-restrict-rest.php:47
+msgid "Website is currently in maintenance mode"
+msgstr "Il sito web è attualmente in modalità di manutenzione"
+
+#: root/nfproot-settings-structure.php:94
+msgid "It only applies to the current WPML language"
+msgstr "Impostazione valida per la sola lingua WPML corrente"
+
+#: root/nfproot-settings.php:42
+msgid "Installed Plugins"
+msgstr "Plugin installati"
+
+#: root/nfproot-settings.php:72
+msgid "Take a look to the others"
+msgstr "Dai un'occhiata agli altri"
+
+#: root/nfproot-settings.php:72
+msgid "NutsForPress Plugins"
+msgstr "plugins NutsForPress"
+
+#~ msgid ""
+#~ "If you flag this checkbox while Maintenance Mode is switched on, all the "
+#~ "Administrators whose checkboxes have not been flagged will be instantly "
+#~ "logged out and they will be prevented from login; if no Administrator "
+#~ "have this checkbox flagged, every one of them can keep on working and "
+#~ "login even while Maintenance Mode is switched on. You can check the list "
+#~ "of the authorized Administrators within the Maintenance Mode plugin "
+#~ "option page"
+#~ msgstr ""
+#~ "Se si contrassegna questa casella di controllo mentre la Modalità "
+#~ "Manutenzione è attiva, tutti gli Amministratori le cui caselle di "
+#~ "controllo non sono state contrassegnate verranno immediatamente "
+#~ "disconnessi e verrà impedito loro di accedere; se nessun amministratore "
+#~ "ha questa casella di controllo contrassegnata, ognuno di loro può "
+#~ "continuare a lavorare e accedere anche mentre la modalità di manutenzione "
+#~ "è attiva. È possibile controllare l'elenco degli amministratori "
+#~ "autorizzati all'interno della pagina delle opzioni del plugin Maintenance "
+#~ "Mode"
+
+#~ msgid ""
+#~ "No other Administrators are allowed to work and login when Maintenance "
+#~ "Mode is switched on, so you can not uncheck this one"
+#~ msgstr ""
+#~ "Nessun altro Amministratore è autorizzato a lavorare e a effettuare il "
+#~ "login quando la Modalità Manutenzione è attivata, quindi non è possibile "
+#~ "deselezionarla"
+
+#~ msgid ""
+#~ "If checked, this Administrator can keep on working and login when "
+#~ "Maintenance Mode is switched on"
+#~ msgstr ""
+#~ "Se l'opzione è selezionata, questo Amministratore può continuare a "
+#~ "lavorare e ad effettuare il login quando la Modalità Manutenzione è "
+#~ "attivata"
+
+#~ msgid "User can login when Maintenance Mode is switched on"
+#~ msgstr ""
+#~ "L'utente può effettuare il login quando la Modalità Manutenzione è "
+#~ "attivata"
+
+#~ msgid "Message from"
+#~ msgstr "Messaggio da"
+
+#~ msgid "Hi"
+#~ msgstr "Ciao"
+
+#~ msgid "This is a plain text message from"
+#~ msgstr "Questo è un messaggio di testo proveniente da"
+
+#~ msgid ""
+#~ "This email message has been sent in order to check if the entered "
+#~ "settings prevent email from being marked as spam and redirected to junk "
+#~ "folder"
+#~ msgstr ""
+#~ "Questo messaggio di posta elettronica è stato inviato per verificare se "
+#~ "le impostazioni immesse siano sufficienti ad impedire che la posta "
+#~ "elettronica venga contrassegnata come posta indesiderata e reindirizzata "
+#~ "alla cartella posta indesiderata"
+
+#~ msgid ""
+#~ "If you have found this message is in the incoming folder, half of the job "
+#~ "is done"
+#~ msgstr ""
+#~ "Se hai trovato questo messaggio nella cartella della posta in arrivo, sei "
+#~ "a metà dell'opera"
+
+#~ msgid "As a further step you should send a test email to"
+#~ msgstr "Come ulteriore passaggio dovresti inviare un'email di prova a"
+
+#~ msgid "or to"
+#~ msgstr "oppure a"
+
+#~ msgid "and see the score you get"
+#~ msgstr "e vedere il punteggio che ottieni"
+
+#~ msgid ""
+#~ "if you did a good job, you can easily achieve full marks (providing that "
+#~ "SPF and DMARK are correctly set)"
+#~ msgstr ""
+#~ "se hai fatto un buon lavoro, puoi facilmente ottenere il massimo dei voti "
+#~ "(a condizione che SPF e DMARK siano impostati correttamente)"
+
+#~ msgid "Enjoy"
+#~ msgstr "Buon divertimento"
+
+#~ msgid "Send email through SMTP"
+#~ msgstr "Invia email tramite SMTP"
+
+#~ msgid ""
+#~ "If switched on, all the emails sent from this website by WordPress "
+#~ "PHPMailer are routed through the SMTP server defined here"
+#~ msgstr ""
+#~ "Se attivata, tutte le email inviate da questo sito web da WordPress "
+#~ "PHPMailer vengono instradate attraverso il server SMTP definito qui"
+
+#~ msgid "Server encryption"
+#~ msgstr "Crittografia server"
+
+#~ msgid "Select the encryption protocol used by your SMTP server"
+#~ msgstr "Seleziona il protocollo di crittografia utilizzato dal server SMTP"
+
+#~ msgid "None"
+#~ msgstr "Nessuna"
+
+#~ msgid "SMTP port"
+#~ msgstr "Porta SMTP"
+
+#~ msgid "Select the port used by your SMTP server"
+#~ msgstr "Seleziona la porta utilizzata dal server SMTP"
+
+#~ msgid "Outgoing email server address"
+#~ msgstr "Indirizzo del server di posta elettronica in uscita"
+
+#~ msgid "Enter the address of your SMTP server"
+#~ msgstr "Immetti l'indirizzo del server SMTP"
+
+#~ msgid "Sender address"
+#~ msgstr "Indirizzo del mittente"
+
+#~ msgid "Enter the email address that you want to use for outgoing email"
+#~ msgstr ""
+#~ "Immetti l'indirizzo email da usare per la posta elettronica in uscita"
+
+#~ msgid "Sender name"
+#~ msgstr "Nome del mittente"
+
+#~ msgid "Enter the name that you want to use for outgoing email"
+#~ msgstr "Immetti il nome da usare per la posta elettronica in uscita"
+
+#~ msgid "SMTP authentication"
+#~ msgstr "Autenticazione SMTP"
+
+#~ msgid ""
+#~ "Switch on if your SMTP server requires authentication in order to send "
+#~ "email messages"
+#~ msgstr ""
+#~ "Attiva se il server SMTP richiede l'autenticazione per inviare messaggi "
+#~ "di posta elettronica"
+
+#~ msgid "Authentication address"
+#~ msgstr "Indirizzo di autenticazione"
+
+#~ msgid "Enter the email address that you want to use for authentication"
+#~ msgstr ""
+#~ "Immetti l'indirizzo email che desideri utilizzare per l'autenticazione"
+
+#~ msgid "Password"
+#~ msgstr "Password"
+
+#~ msgid "Enter the password for the authentication address above"
+#~ msgstr "Immetti la password per l'indirizzo di autenticazione qui sopra"
+
+#~ msgid "Send a test email message"
+#~ msgstr "Invia un'email di prova"
+
+#~ msgid "Click on the arrow to display the email test functions"
+#~ msgstr ""
+#~ "Clicca sulla freccia per visualizzare le funzioni di test della posta "
+#~ "elettronica"
+
+#~ msgid "Recipient address for the test message"
+#~ msgstr "Destinatario del messaggio di prova"
+
+#~ msgid "Enter a recipient address for your email test message"
+#~ msgstr "Immetti l'indirizzo del destinatario del messaggio email di test"
+
+#~ msgid "Sending email, please wait"
+#~ msgstr "Invio email, attendere"
+
+#~ msgid "Message sent successfuly"
+#~ msgstr "Messaggio inviato correttamente"
+
+#~ msgid "An error occurred, please check your settings and retry"
+#~ msgstr ""
+#~ "Si è verificato un errore, per favore controlla le impostazioni e riprova"
+
+#~ msgid "Send email"
+#~ msgstr "Invia email"
+
+#~ msgid ""
+#~ "This setting only applies to current WPML language, please switch "
+#~ "language and set a different value for the other languages"
+#~ msgstr ""
+#~ "Questa impostazione si applica solo alla lingua WPML corrente, per favore "
+#~ "cambia lingua e imposta un valore differente per le altre lingue"
+
+#~ msgid "if you did a good job, you can easily achieve a score of"
+#~ msgstr ""
+#~ "se hai fatto un buon lavoro, puoi facilmente ottenere un punteggio di"
+
+#, fuzzy
+#~| msgid "Dog Name"
+#~ msgid "From name"
+#~ msgstr "Nome del Cane"
+
+#~ msgid "Use SMTP settings"
+#~ msgstr "Utilizzare le impostazioni SMTP"
+
+#, fuzzy
+#~| msgid "Enter your code"
+#~ msgid "Enter your sender address"
+#~ msgstr "Inserisci il tuo codice"
+
+#, fuzzy
+#~| msgid ""
+#~| "If switched on, WordPress PHPMailer will operate with the settings "
+#~| "defined here"
+#~ msgid ""
+#~ "If switched on, WordPress PHPMailer will operate with the authentication "
+#~ "defined here"
+#~ msgstr ""
+#~ "Se attivata, WordPress PHPMailer funzionerà con le impostazioni definite "
+#~ "qui"
+
+#, fuzzy
+#~| msgid "Enter your code"
+#~ msgid "Enter your username"
+#~ msgstr "Inserisci il tuo codice"
+
+#, fuzzy
+#~| msgid "Enter your code"
+#~ msgid "Enter your password"
+#~ msgstr "Inserisci il tuo codice"
+
+#~ msgid ""
+#~ "If switched on, GIF images will be skipped from resizing, in order to "
+#~ "avoid risk of spoil their native animation"
+#~ msgstr ""
+#~ "Se attivata, le immagini GIF verranno ignorate dal ridimensionamento, al "
+#~ "fine di evitare il rischio di rovinare la loro animazione nativa"
+
+#~ msgid "Compress JPEG on upload"
+#~ msgstr "Comprimi JPEG al caricamento"
+
+#~ msgid ""
+#~ "If switched on, JPEG images will be compressed to the quality defined "
+#~ "here, preserving the original full quality image"
+#~ msgstr ""
+#~ "Se attivata, le immagini JPEG verranno compresse alla qualità qui "
+#~ "definita, preservando l'immagine originale di qualità completa"
+
+#~ msgid ""
+#~ "This quality level will be used to compress JPEG images on upload and on "
+#~ "thumbnails rebuild"
+#~ msgstr ""
+#~ "Questo livello di qualità verrà utilizzato per comprimere le immagini "
+#~ "JPEG al caricamento e nella ricostruzione delle miniature"
+
+#~ msgid "Bulk rebuild thumbnails"
+#~ msgstr "Ricostruisci in blocco le miniature"
+
+#~ msgid "Click on the arrow to display the bulk rebuild thumbnails functions"
+#~ msgstr ""
+#~ "Fai clic sulla freccia per visualizzare le funzioni di ricostruzione in "
+#~ "blocco delle miniature"
+
+#~ msgid "Calculating media to treat"
+#~ msgstr "Calcolo dei media da trattare"
+
+#~ msgid "Now treating media"
+#~ msgstr "Sto trattando il media"
+
+#~ msgid "of"
+#~ msgstr "di"
+
+#~ msgid "Job Completed"
+#~ msgstr "Attività completata"
+
+#~ msgid ""
+#~ "If switched on, all the thumbnails will be rebuilt, not only the ones "
+#~ "with different size or compression"
+#~ msgstr ""
+#~ "Se attivata, tutte le miniature verranno ricostruite, non solo quelle con "
+#~ "dimensioni o compressione diverse"
+
+#~ msgid ""
+#~ "If switched on, thumbnails will be added to PDF documents that have lost "
+#~ "them"
+#~ msgstr ""
+#~ "Se attivata, le miniature verranno aggiunte ai documenti PDF che le hanno "
+#~ "perse"
+
+#~ msgid "Write meta on upload"
+#~ msgstr "Scrivi meta al caricamento"
+
+#~ msgid ""
+#~ "If switched on, \"alt title\", \"description\" and \"excerpt\" will be "
+#~ "automatically filled out with a cleaned version of the title value; for "
+#~ "example, \"my_best_image.jpg\" will turn to \"my best image\""
+#~ msgstr ""
+#~ "Se attivata, \"alt title\", \"description\" e \"excerpt\" verranno "
+#~ "compilati automaticamente con una versione pulita del valore del titolo; "
+#~ "ad esempio, \"my_best_image.jpg\" si rivolgerà a \"la mia migliore "
+#~ "immagine\""
+
+#~ msgid "Bulk rewrite meta"
+#~ msgstr "Riscrivi in blocco i meta"
+
+#~ msgid "Click on the arrow to display the bulk rewrite meta functions"
+#~ msgstr ""
+#~ "Fai clic sulla freccia per visualizzare le funzioni di riscrittura  in "
+#~ "blocco dei meta"
+
+#~ msgid ""
+#~ "If switched on, all the meta will be rewritten, not only the ones with "
+#~ "empty entries"
+#~ msgstr ""
+#~ "Se attivata, tutti i meta verranno riscritti, non solo quelli con "
+#~ "elementi vuoti"
+
+#~ msgid "Ultra HD (3840px)"
+#~ msgstr "Ultra HD (3840px)"
+
+#~ msgid "Quad HD (2560px)"
+#~ msgstr "Quad HD (2560px)"
+
+#~ msgid "Quad WXGA (2048px)"
+#~ msgstr "Quad WXGA (2048px)"
+
+#~ msgid "Full HD (1920px)"
+#~ msgstr "Full HD (1920px)"
+
+#~ msgid "HD (1600px)"
+#~ msgstr "HD (1600px)"
+
+#~ msgid "WXGA Plus (1440px)"
+#~ msgstr "WXGA Plus (1440px)"
+
+#~ msgid "HD (1280px)"
+#~ msgstr "HD (1280px)"
+
+#~ msgid "WP default"
+#~ msgstr "Predefinito WP"
+
+#~ msgid "Resize images on upload"
+#~ msgstr "Ridimensiona le immagini al caricamento"
+
+#~ msgid ""
+#~ "If switched on, images will be resized to the size defined here, "
+#~ "preserving the original full size image"
+#~ msgstr ""
+#~ "Se attivata, le immagini verranno ridimensionate in base alle dimensioni "
+#~ "qui definite, preservando l'immagine originale a grandezza naturale"
+
+#~ msgid ""
+#~ "Images bigger than the size set will be resized on upload and on "
+#~ "thumbnails rebuild, preserving the original full size image"
+#~ msgstr ""
+#~ "Le immagini più grandi delle dimensioni impostate verranno ridimensionate "
+#~ "al caricamento e durante la ricostruzione delle miniature, preservando "
+#~ "l'immagine originale a grandezza naturale"
+
+#~ msgid "WordPress default"
+#~ msgstr "Predefinito di WordPress"
+
+#, fuzzy
+#~| msgid "Rebuild Thumbnails"
+#~ msgid "Bulk Rebuild Thumbnails"
+#~ msgstr "Ricostruisci Miniature"
+
+#~ msgid "Bulk Rewrite Meta"
+#~ msgstr "Riscrivi in blocco i meta"
+
+#~ msgid "Define images size threshold"
+#~ msgstr "Definisci la soglia delle dimensioni delle immagini"
+
+#~ msgid ""
+#~ "If switched on, a custom size value can be set and used to resize images "
+#~ "on upload"
+#~ msgstr ""
+#~ "Se attivata, è possibile impostare e utilizzare un valore di dimensione "
+#~ "personalizzato per ridimensionare le immagini al caricamento"
+
+#~ msgid "Define JPEG compression level"
+#~ msgstr "Definisci il livello di compressione JPEG"
+
+#~ msgid ""
+#~ "If switched on, a custom quality value can be set and used to compress "
+#~ "JPEG images on upload"
+#~ msgstr ""
+#~ "Se attivata, è possibile impostare e utilizzare un valore di qualità "
+#~ "personalizzato per comprimere le immagini JPEG al caricamento"
+
+#~ msgid "Enable automatic meta"
+#~ msgstr "Abilita i meta automatici"
+
+#~ msgid "Rebuild Meta"
+#~ msgstr "Ricostruisci Meta"
+
+#~ msgid ""
+#~ "If switched, it resizes all the images while they are uploaded into the "
+#~ "media gallery"
+#~ msgstr ""
+#~ "Se attivata, ridimensiona tutte le immagini mentre vengono caricate nella "
+#~ "galleria multimediale"
+
+#~ msgid ""
+#~ "If switched, it compresses all the JPEG images while they are uploaded "
+#~ "into the media gallery"
+#~ msgstr ""
+#~ "Se attivata, comprime tutte le immagini JPEG mentre vengono caricate "
+#~ "nella galleria multimediale"
+
+#~ msgid ""
+#~ "Please, select a compression level to be applied on JPEG upload or on "
+#~ "Thumbnails rebuild"
+#~ msgstr ""
+#~ "Per favore, seleziona un livello di compressione da applicare al "
+#~ "caricamento JPEG o sulla ricostruzione delle miniature"
+
+#~ msgid "This section allows you to rebuild thumbnails"
+#~ msgstr "Questa sezione consente di ricostruire le miniature"
+
+#~ msgid "Save settings in order to rebuild thumbnails"
+#~ msgstr "Salvare le impostazioni per poter ricostruire le miniature"
+
+#~ msgid "If switched on, PDF thumbnails that are missing will be regenerated"
+#~ msgstr "Se attivata, le miniature PDF mancanti verranno rigenerate"
+
+#~ msgid ""
+#~ "the success of this operation depends on the capability of your server to "
+#~ "manage PDF conversion"
+#~ msgstr ""
+#~ "il successo di questa operazione dipende dalla capacità del server di "
+#~ "gestire la conversione PDF"
+
+#~ msgid ""
+#~ "If switched on, any attachment that miss his own physical file will be "
+#~ "deleted"
+#~ msgstr ""
+#~ "Se attivata, qualsiasi allegato privo del proprio file fisico verrà "
+#~ "eliminato"
+
+#~ msgid "Settings saved"
+#~ msgstr "Impostazioni salvate"
+
+#~ msgid "Setup"
+#~ msgstr "Setup"
+
+#~ msgid "Thumbnails rebuild"
+#~ msgstr "Ricostruzione miniature"
+
+#~ msgid "already exists"
+#~ msgstr "esiste già"
+
+#~ msgid "Detail"
+#~ msgstr "Dettaglio"
+
+#~ msgid "Hello World"
+#~ msgstr "Ciao Mondo"
+
+#~ msgid "Remember me on this device"
+#~ msgstr "Ricordami su questo device"
+
+#~ msgid "Send"
+#~ msgstr "Invia"
+
+#~ msgid "Cat Name"
+#~ msgstr "Nome del Gatto"
+
+#~ msgid "Cat Name Text Label"
+#~ msgstr "Etichetta testo nome gatto"
+
+#~ msgid "Text Placeholder"
+#~ msgstr "Testo del segnaposto"
+
+#~ msgid "Cat Name Checkbox"
+#~ msgstr "Casella di controllo Nome Gatto"
+
+#~ msgid "Textarea Cat Label"
+#~ msgstr "Etichetta Textarea Gatto"
+
+#~ msgid "Textarea Placeholder"
+#~ msgstr "Textarea Segnaposto"
+
+#~ msgid "Select Cat Label"
+#~ msgstr "Etichetta Selezione Gatto"
+
+#~ msgid "One"
+#~ msgstr "Uno"
+
+#~ msgid "Two"
+#~ msgstr "Due"
+
+#~ msgid "Three"
+#~ msgstr "Tre"
+
+#~ msgid "Dog Name Text Label"
+#~ msgstr "Etichetta testo nome cane"
+
+#~ msgid "Dog Name Checkbox"
+#~ msgstr "Casella di controllo Nome Cane"
+
+#~ msgid "Textarea Dog Label"
+#~ msgstr "Etichetta Textarea Cane"
+
+#~ msgid "Select Dog Label"
+#~ msgstr "Etichetta Selezione Cane"
+
+#~ msgid "Four"
+#~ msgstr "Quattro"
+
+#~ msgid "Five"
+#~ msgstr "Cinque"
+
+#~ msgid "Six"
+#~ msgstr "Six"
+
+#~ msgid "dog"
+#~ msgstr "cane"
+
+#~ msgid "dogs"
+#~ msgstr "cani"
+
+#~ msgid "Dog"
+#~ msgstr "Cane"
+
+#~ msgid "Dogs"
+#~ msgstr "Cani"
+
+#~ msgid "cat"
+#~ msgstr "gatto"
+
+#~ msgid "cats"
+#~ msgstr "gatti"
+
+#~ msgid "Cat"
+#~ msgstr "Gatto"
+
+#~ msgid "Cats"
+#~ msgstr "Gatti"
+
+#~ msgid "breed"
+#~ msgstr "razza"
+
+#~ msgid "breeds"
+#~ msgstr "razze"
+
+#~ msgid "Breed"
+#~ msgstr "Razza"
+
+#~ msgid "Breeds"
+#~ msgstr "Razze"
+
+#~ msgid "my-breeds"
+#~ msgstr "mie-razze"
+
+#~ msgid "size"
+#~ msgstr "taglia"
+
+#~ msgid "sizes"
+#~ msgstr "taglie"
+
+#~ msgid "Size"
+#~ msgstr "Taglia"
+
+#~ msgid "Sizes"
+#~ msgstr "Taglie"
+
+#~ msgid "my-sizes"
+#~ msgstr "mie-taglie"
+
+#~ msgid "Today Menu"
+#~ msgstr "Menu di Oggi"
+
+#~ msgid "dish"
+#~ msgstr "pietanza"
+
+#~ msgid "dishes"
+#~ msgstr "pietanze"
+
+#~ msgid "Dish"
+#~ msgstr "Pietanza"
+
+#~ msgid "Dishes"
+#~ msgstr "Pietanze"
+
+#~ msgid "wine"
+#~ msgstr "vino"
+
+#~ msgid "wines"
+#~ msgstr "vini"
+
+#~ msgid "Wine"
+#~ msgstr "Vino"
+
+#~ msgid "Wines"
+#~ msgstr "Vini"
+
+#~ msgid "beer"
+#~ msgstr "birra"
+
+#~ msgid "beers"
+#~ msgstr "birre"
+
+#~ msgid "Beer"
+#~ msgstr "Birra"
+
+#~ msgid "Beers"
+#~ msgstr "Birre"
+
+#~ msgid "menu"
+#~ msgstr "menu"
+
+#~ msgid "menus"
+#~ msgstr "menu"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Menus"
+#~ msgstr "Menu"
+
+#~ msgid "Lunch"
+#~ msgstr "Pranzo"
+
+#~ msgid "Dinner"
+#~ msgstr "Cena"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"
+
+#~ msgid "Search"
+#~ msgstr "Trova"
+
+#~ msgid "not found"
+#~ msgstr "non trovato"
+
+#~ msgid "in trash"
+#~ msgstr "nel cestino"
+
+#~ msgid "Kind of"
+#~ msgstr "Tipologia di"
+
+#~ msgid "All kinds of"
+#~ msgstr "Tutte le tipologie di"
+
+#~ msgid "Add new kind of"
+#~ msgstr "Aggiungi nuova tipologia di"
+
+#~ msgid "Edit kind of"
+#~ msgstr "Modifica tipologia di"
+
+#~ msgid "Update kind of"
+#~ msgstr "Aggiorna tipologia di"
+
+#~ msgid "Search kind of"
+#~ msgstr "Trova tipologia di"
+
+#~ msgid "kinds"
+#~ msgstr "tipologie"
+
+#~ msgid "Prices"
+#~ msgstr "Prezzi"
+
+#~ msgid "of this"
+#~ msgstr "di questo"
+
+#~ msgid "price"
+#~ msgstr "prezzo"

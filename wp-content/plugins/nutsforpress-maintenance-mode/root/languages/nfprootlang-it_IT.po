@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-30 10:59+0100\n"
+"PO-Revision-Date: 2021-01-30 11:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: nfproot-settings-structure.php:94
+msgid "It only applies to the current WPML language"
+msgstr "Impostazione valida per la sola lingua WPML corrente"
+
+#: nfproot-settings.php:42
+msgid "Installed Plugins"
+msgstr "Plugin installati"
+
+#: nfproot-settings.php:68
+msgid "Take a look to the others"
+msgstr "Dai un'occhiata agli altri"
+
+#: nfproot-settings.php:68
+msgid "NutsForPress Plugins"
+msgstr "Plugins NutsForPress"
+
+#~ msgid "This setting only applies to current WPML language, please switch language and set a different value for the other languages"
+#~ msgstr "Questa impostazione si applica solo alla lingua WPML corrente, per favore cambia lingua e imposta un valore differente per le altre lingue"
+
+#~ msgid "WordPress default"
+#~ msgstr "Predefinito di WordPress"
+
+#~ msgid "Resize images on upload"
+#~ msgstr "Ridimensiona le immagini al caricamento"
+
+#~ msgid "If switched on, images will be resized to the size defined here, preserving the original full size image"
+#~ msgstr "Se attivata, le immagini verranno ridimensionate in base alle dimensioni qui definite, preservando l'immagine originale a grandezza naturale"
+
+#~ msgid "Images bigger than the size set will be resized on upload and on thumbnails rebuild, preserving the original full size image"
+#~ msgstr "Le immagini più grandi delle dimensioni impostate verranno ridimensionate al caricamento e durante la ricostruzione delle miniature, preservando l'immagine originale a grandezza naturale"
+
+#~ msgid "If switched on, GIF images will be skipped from resizing, in order to avoid risk of spoil their native animation"
+#~ msgstr "Se attivata, le immagini GIF verranno ignorate dal ridimensionamento, al fine di evitare il rischio di rovinare la loro animazione nativa"
+
+#~ msgid "Compress JPEG on upload"
+#~ msgstr "Comprimi JPEG al caricamento"
+
+#~ msgid "If switched on, JPEG images will be compressed to the quality defined here, preserving the original full quality image"
+#~ msgstr "Se attivata, le immagini JPEG verranno compresse alla qualità qui definita, preservando l'immagine originale di qualità completa"
+
+#~ msgid "This quality level will be used to compress JPEG images on upload and on thumbnails rebuild"
+#~ msgstr "Questo livello di qualità verrà utilizzato per comprimere le immagini JPEG al caricamento e nella ricostruzione delle miniature"
+
+#~ msgid "Bulk rebuild thumbnails"
+#~ msgstr "Ricostruisci in blocco le miniature"
+
+#~ msgid "Click on the arrow to display the bulk rebuild thumbnails functions"
+#~ msgstr "Fai clic sulla freccia per visualizzare le funzioni di ricostruzione in blocco delle miniature"
+
+#~ msgid "Calculating media to treat"
+#~ msgstr "Calcolo dei media da trattare"
+
+#~ msgid "Now treating media"
+#~ msgstr "Sto trattando il media"
+
+#~ msgid "of"
+#~ msgstr "di"
+
+#~ msgid "Job Completed"
+#~ msgstr "Attività completata"
+
+#~ msgid "If switched on, all the thumbnails will be rebuilt, not only the ones with different size or compression"
+#~ msgstr "Se attivata, tutte le miniature verranno ricostruite, non solo quelle con dimensioni o compressione diverse"
+
+#~ msgid "If switched on, thumbnails will be added to PDF documents that have lost them"
+#~ msgstr "Se attivata, le miniature verranno aggiunte ai documenti PDF che le hanno perse"
+
+#~ msgid "Write meta on upload"
+#~ msgstr "Scrivi meta al caricamento"
+
+#~ msgid "If switched on, \"alt title\", \"description\" and \"excerpt\" will be automatically filled out with a cleaned version of the title value; for example, \"my_best_image.jpg\" will turn to \"my best image\""
+#~ msgstr "Se attivata, \"alt title\", \"description\" e \"excerpt\" verranno compilati automaticamente con una versione pulita del valore del titolo; ad esempio, \"my_best_image.jpg\" si rivolgerà a \"la mia migliore immagine\""
+
+#~ msgid "Bulk rewrite meta"
+#~ msgstr "Riscrivi in blocco i meta"
+
+#~ msgid "Click on the arrow to display the bulk rewrite meta functions"
+#~ msgstr "Fai clic sulla freccia per visualizzare le funzioni di riscrittura  in blocco dei meta"
+
+#~ msgid "If switched on, all the meta will be rewritten, not only the ones with empty entries"
+#~ msgstr "Se attivata, tutti i meta verranno riscritti, non solo quelli con elementi vuoti"
+
+#, fuzzy
+#~| msgid "Rebuild Thumbnails"
+#~ msgid "Bulk Rebuild Thumbnails"
+#~ msgstr "Ricostruisci Miniature"
+
+#~ msgid "Bulk Rewrite Meta"
+#~ msgstr "Riscrivi in blocco i meta"
+
+#~ msgid "Define images size threshold"
+#~ msgstr "Definisci la soglia delle dimensioni delle immagini"
+
+#~ msgid "If switched on, a custom size value can be set and used to resize images on upload"
+#~ msgstr "Se attivata, è possibile impostare e utilizzare un valore di dimensione personalizzato per ridimensionare le immagini al caricamento"
+
+#~ msgid "Define JPEG compression level"
+#~ msgstr "Definisci il livello di compressione JPEG"
+
+#~ msgid "If switched on, a custom quality value can be set and used to compress JPEG images on upload"
+#~ msgstr "Se attivata, è possibile impostare e utilizzare un valore di qualità personalizzato per comprimere le immagini JPEG al caricamento"
+
+#~ msgid "Click on the arrow to display thumbnails rebuild functions"
+#~ msgstr "Fare clic sulla freccia per visualizzare le funzioni di ricostruzione delle miniature"
+
+#~ msgid "Enable automatic meta"
+#~ msgstr "Abilita i meta automatici"
+
+#~ msgid "Rebuild Meta"
+#~ msgstr "Ricostruisci Meta"
+
+#~ msgid "If switched, it resizes all the images while they are uploaded into the media gallery"
+#~ msgstr "Se attivata, ridimensiona tutte le immagini mentre vengono caricate nella galleria multimediale"
+
+#~ msgid "If switched, it compresses all the JPEG images while they are uploaded into the media gallery"
+#~ msgstr "Se attivata, comprime tutte le immagini JPEG mentre vengono caricate nella galleria multimediale"
+
+#~ msgid "Please, select a compression level to be applied on JPEG upload or on Thumbnails rebuild"
+#~ msgstr "Per favore, seleziona un livello di compressione da applicare al caricamento JPEG o sulla ricostruzione delle miniature"
+
+#~ msgid "This section allows you to rebuild thumbnails"
+#~ msgstr "Questa sezione consente di ricostruire le miniature"
+
+#~ msgid "Save settings in order to rebuild thumbnails"
+#~ msgstr "Salvare le impostazioni per poter ricostruire le miniature"
+
+#~ msgid "If switched on, PDF thumbnails that are missing will be regenerated"
+#~ msgstr "Se attivata, le miniature PDF mancanti verranno rigenerate"
+
+#~ msgid "the success of this operation depends on the capability of your server to manage PDF conversion"
+#~ msgstr "il successo di questa operazione dipende dalla capacità del server di gestire la conversione PDF"
+
+#~ msgid "If switched on, any attachment that miss his own physical file will be deleted"
+#~ msgstr "Se attivata, qualsiasi allegato privo del proprio file fisico verrà eliminato"
+
+#~ msgid "Settings saved"
+#~ msgstr "Impostazioni salvate"
+
+#~ msgid "Setup"
+#~ msgstr "Setup"
+
+#~ msgid "Save Settings"
+#~ msgstr "Salva Impostazioni"
+
+#~ msgid "Thumbnails rebuild"
+#~ msgstr "Ricostruzione miniature"
+
+#~ msgid "already exists"
+#~ msgstr "esiste già"
+
+#~ msgid "Detail"
+#~ msgstr "Dettaglio"
+
+#~ msgid "Hello World"
+#~ msgstr "Ciao Mondo"
+
+#~ msgid "Enter your code"
+#~ msgstr "Inserisci il tuo codice"
+
+#~ msgid "Remember me on this device"
+#~ msgstr "Ricordami su questo device"
+
+#~ msgid "Send"
+#~ msgstr "Invia"
+
+#~ msgid "Cat Name"
+#~ msgstr "Nome del Gatto"
+
+#~ msgid "Cat Name Text Label"
+#~ msgstr "Etichetta testo nome gatto"
+
+#~ msgid "Text Placeholder"
+#~ msgstr "Testo del segnaposto"
+
+#~ msgid "Cat Name Checkbox"
+#~ msgstr "Casella di controllo Nome Gatto"
+
+#~ msgid "Textarea Cat Label"
+#~ msgstr "Etichetta Textarea Gatto"
+
+#~ msgid "Textarea Placeholder"
+#~ msgstr "Textarea Segnaposto"
+
+#~ msgid "Select Cat Label"
+#~ msgstr "Etichetta Selezione Gatto"
+
+#~ msgid "One"
+#~ msgstr "Uno"
+
+#~ msgid "Two"
+#~ msgstr "Due"
+
+#~ msgid "Three"
+#~ msgstr "Tre"
+
+#~ msgid "Dog Name"
+#~ msgstr "Nome del Cane"
+
+#~ msgid "Dog Name Text Label"
+#~ msgstr "Etichetta testo nome cane"
+
+#~ msgid "Dog Name Checkbox"
+#~ msgstr "Casella di controllo Nome Cane"
+
+#~ msgid "Textarea Dog Label"
+#~ msgstr "Etichetta Textarea Cane"
+
+#~ msgid "Select Dog Label"
+#~ msgstr "Etichetta Selezione Cane"
+
+#~ msgid "Four"
+#~ msgstr "Quattro"
+
+#~ msgid "Five"
+#~ msgstr "Cinque"
+
+#~ msgid "Six"
+#~ msgstr "Six"
+
+#~ msgid "dog"
+#~ msgstr "cane"
+
+#~ msgid "dogs"
+#~ msgstr "cani"
+
+#~ msgid "Dog"
+#~ msgstr "Cane"
+
+#~ msgid "Dogs"
+#~ msgstr "Cani"
+
+#~ msgid "cat"
+#~ msgstr "gatto"
+
+#~ msgid "cats"
+#~ msgstr "gatti"
+
+#~ msgid "Cat"
+#~ msgstr "Gatto"
+
+#~ msgid "Cats"
+#~ msgstr "Gatti"
+
+#~ msgid "breed"
+#~ msgstr "razza"
+
+#~ msgid "breeds"
+#~ msgstr "razze"
+
+#~ msgid "Breed"
+#~ msgstr "Razza"
+
+#~ msgid "Breeds"
+#~ msgstr "Razze"
+
+#~ msgid "my-breeds"
+#~ msgstr "mie-razze"
+
+#~ msgid "size"
+#~ msgstr "taglia"
+
+#~ msgid "sizes"
+#~ msgstr "taglie"
+
+#~ msgid "Size"
+#~ msgstr "Taglia"
+
+#~ msgid "Sizes"
+#~ msgstr "Taglie"
+
+#~ msgid "my-sizes"
+#~ msgstr "mie-taglie"
+
+#~ msgid "Today Menu"
+#~ msgstr "Menu di Oggi"
+
+#~ msgid "dish"
+#~ msgstr "pietanza"
+
+#~ msgid "dishes"
+#~ msgstr "pietanze"
+
+#~ msgid "Dish"
+#~ msgstr "Pietanza"
+
+#~ msgid "Dishes"
+#~ msgstr "Pietanze"
+
+#~ msgid "wine"
+#~ msgstr "vino"
+
+#~ msgid "wines"
+#~ msgstr "vini"
+
+#~ msgid "Wine"
+#~ msgstr "Vino"
+
+#~ msgid "Wines"
+#~ msgstr "Vini"
+
+#~ msgid "beer"
+#~ msgstr "birra"
+
+#~ msgid "beers"
+#~ msgstr "birre"
+
+#~ msgid "Beer"
+#~ msgstr "Birra"
+
+#~ msgid "Beers"
+#~ msgstr "Birre"
+
+#~ msgid "menu"
+#~ msgstr "menu"
+
+#~ msgid "menus"
+#~ msgstr "menu"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Menus"
+#~ msgstr "Menu"
+
+#~ msgid "Lunch"
+#~ msgstr "Pranzo"
+
+#~ msgid "Dinner"
+#~ msgstr "Cena"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"
+
+#~ msgid "Search"
+#~ msgstr "Trova"
+
+#~ msgid "not found"
+#~ msgstr "non trovato"
+
+#~ msgid "in trash"
+#~ msgstr "nel cestino"
+
+#~ msgid "Kind of"
+#~ msgstr "Tipologia di"
+
+#~ msgid "All kinds of"
+#~ msgstr "Tutte le tipologie di"
+
+#~ msgid "Add new kind of"
+#~ msgstr "Aggiungi nuova tipologia di"
+
+#~ msgid "Edit kind of"
+#~ msgstr "Modifica tipologia di"
+
+#~ msgid "Update kind of"
+#~ msgstr "Aggiorna tipologia di"
+
+#~ msgid "Search kind of"
+#~ msgstr "Trova tipologia di"
+
+#~ msgid "kinds"
+#~ msgstr "tipologie"
+
+#~ msgid "Prices"
+#~ msgstr "Prezzi"
+
+#~ msgid "of this"
+#~ msgstr "di questo"
+
+#~ msgid "price"
+#~ msgstr "prezzo"

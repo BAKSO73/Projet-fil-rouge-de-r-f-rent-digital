@@ -1,0 +1,54 @@
+/*
+ Theme Name:   Ecommerce Goldly
+ Theme URI:    https://www.xeeshop.com/product/ecommerce-goldly-pro/
+ Description:  Ecommerce Goldly provide to elegant layout with much customize using to make blog and ecommerce site for  goldly as will you can use any kind of blog for this.  Optimized for all devices, this theme will stand out with a unique design. Pick any accent color you wish. Set sidebar to the left or right - or no sidebar at all.
+ Template:     goldly
+ Version:      1.0.9
+ Author:       reviewexchanger
+ Author URI:   https://www.xeeshop.com/
+ License:      GNU General Public License v2 or later
+ License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+ Text Domain:  ecommercegoldly
+ Tested up to: 5.8
+ Requires PHP: 5.6
+*/
+
+.wp-block-social-links .wp-block-social-link .wp-block-social-link-anchor svg{
+	fill: #333333 !important;
+}
+.main-navigation .nav-menu ul.sub-menu{
+	border-bottom: 4px solid #ffffff;
+}
+.our_team_social_icon {
+    display: none;
+}
+.our_team_container_data:hover {
+    padding: 50px 35px !important; 
+}
+
+.product_category_section {
+    padding: 20px;
+}
+.product_section {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.product_title h3 {
+    margin: 0px;
+}
+.ecommerce_product_section {
+    text-align: center;
+    padding: 30px 0px;
+}
+.product_info_img img:hover {
+    transform: scale(1.05);
+    transition: 0.5s all ease-in-out;
+}
+.product_contain{
+	padding: 5px;
+}
+.fill_banner_img img {
+    width: -webkit-fill-available;
+}

@@ -1,0 +1,123 @@
+/*
+Plugin Name: NS maintenance mode
+Plugin URI: www.nsthemes.com
+Description: Maintenance mode with style
+Author: NsThemes
+Author URI: http://www.nsthemes.com
+Version: 1.0.0
+*/
+
+/* GENERAL */
+
+* {
+	font-family: 'Lato', sans-serif;	
+	box-shadow: none !important;
+}
+@media screen and (min-width: 59.6875em) {
+body:before{
+	background-color: transparent !important;
+}
+}
+.bgLauncher {
+	height: 100% !important;
+	min-height: 100% !important;
+  	-webkit-background-size: cover !important;
+  	-moz-background-size: cover !important;
+  	-o-background-size: cover !important;
+  	background-size: cover !important;
+}
+
+.snack {
+	color: #fff;
+	text-align: center !important; 
+	padding-right: 0px !important; 
+	padding-left: 0px !important;	
+}
+
+.spaghetti {
+	color: #fff;
+	text-align: center !important;	
+}
+
+input, input[placeholder]{
+	text-align: center !important;
+}
+
+.NSnome {
+	height: 45px !important; 
+	border: 1px solid #2693A7 !important; 
+	margin-bottom: 20px !important; 	
+	background: rgba(255,255,255,0.9) !important;
+	min-width: 220px !important;
+}
+
+.NSmail {
+	height: 45px !important; 
+	border: 1px solid #2693A7 !important; 
+	margin-bottom: 30px !important;
+	background: rgba(255,255,255,0.9) !important;
+	min-width: 220px !important;
+}
+
+.buttone { 
+	border: 1px solid #2693A7; 
+	height: 40px !important; 
+	padding-right: 25px !important; 
+	padding-left: 25px !important;	
+	box-shadow: none !important;
+	-webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+	line-height: 8px !important;	
+}
+
+.buttone:hover {
+	color: #fff;
+	box-shadow: none !important;
+	background: #2693A7;
+	border: 1px solid #fff; 	
+}
+
+.socialll {
+	color: #2693A7;
+	padding: 0px !important; 
+	margin: 0px !important;
+	margin-top: 6px !important;
+	margin-right: 20px !important;
+	-webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;	
+}
+
+.socialll:hover {
+	color: #fff;	
+}
+
+.footNs {
+	text-align: center !important;
+	color: #fff;
+	padding-top: 50px !important;
+}
+
+.mm-spaghetti-mailsent{
+	position: fixed !important;
+	width: 300px !important;
+	height: 100px !important;
+	top: 250px !important;
+	left: 50% !important;
+	margin-left: -150px !important;
+	background: #fff !important;
+	padding-top: 40px !important;
+	z-index: 9999 !important;
+	border: 1px solid #6BAA01 !important;
+	border-radius: 3px !important;
+	text-align: center !important;
+}
+
+
+#mm-subscription {
+	max-width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+

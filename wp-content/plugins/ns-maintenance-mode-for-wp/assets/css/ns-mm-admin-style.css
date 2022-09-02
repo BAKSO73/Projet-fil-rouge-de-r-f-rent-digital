@@ -1,0 +1,164 @@
+.ns-mm-main-title{
+	color: #6BAA01;
+	font-size: 20px;
+	text-align: center;
+}
+
+.ns-mm-sub-title{
+	font-size: 17px;
+	text-align: center;
+}
+
+.box-ns {
+	margin-top: 20px;
+	margin-right: 20px;
+    max-width: 100%;
+}
+
+.ns-mm-section-box{
+	background: #fff;
+    border-left: 5px solid #6BAA01;
+	padding: 20px;
+	margin-top: 15px;
+}
+
+.ns-mm-title-container h2{
+	text-align: left;
+	margin-top: 0px;
+}
+
+#ns_reset_logo{
+	font-size: 26px; 
+	height: 30px; 
+	vertical-align: middle; 
+	color: #ccc; 
+	cursor: pointer;
+}
+
+.ns-container-btta {
+	margin-top: 10px;
+	height: 100%;
+}
+
+.ns-upload-text {
+	height: 40px;
+}
+
+.ns-btns-mm-options {
+	background: #6BAA01;
+	color: #fff;
+	border: 1px solid #6BAA01;
+	cursor: pointer;
+	outline: none !important;
+	height: 40px;
+	-webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.ns-btns-mm-options:hover {
+	background: #fff;
+	color: #6BAA01;
+	border: 1px solid #6BAA01;
+}
+
+.btnXbtn {
+	width: 75px;
+}
+
+.ns-mm-link-input input {
+	width: 290px;
+}
+
+.btnUploadBtn {
+	width: 120px;
+	margin-right: 5px;
+}
+
+.ns-label-container-btta {
+	margin-bottom: 10px;
+	outline: none !important;
+}
+
+.column-ns-btta-container{
+	display: inline-table;
+	margin-right: 10px;
+}
+
+.ns-input-container-btta {
+	margin-bottom: 30px;
+	outline: none !important;
+}
+
+.ns-input-container-btta input {
+    height: 40px;
+    outline: none !important;
+}
+
+.ns-input-container-btta select {
+	width: 290px;
+    height: 40px;
+    outline: none !important;
+}
+
+.ns-input-container-btta textarea {
+	width: 290px;
+	height: 38px;
+	outline: none !important;
+}
+
+.ns-submit-container-btta{}
+
+.row-btta-cont {
+	width: 500px;
+}
+
+#ns_mm_background_image{
+	width: 290px;
+}
+
+#ns_mm_subtitle_text, #ns_mm_title_text {
+	width: 100%;
+	max-width: 460px;
+}
+
+#ns_mm_footer_text{
+	width: 100%;
+	max-width: 460px;
+	height: 70px;
+}
+
+#mc_embed_signup {
+	background: #F1F1F1; 
+	clear: left; 
+	font: 14px Helvetica,Arial,sans-serif; 
+}
+
+.ns-submit-container-btta .ns-mm-submit-btn{
+	background: #6BAA01;
+	border-color: #6BAA01;
+	box-shadow: none;
+	text-shadow: none;
+	height: 35px;
+	font-size: 14px;	
+	margin-top: 15px;
+}
+
+.ns-submit-container-btta .ns-mm-submit-btn:hover {
+    background: #5c9101;
+    border-color: #5c9101;
+    box-shadow: none;
+	-webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+@media (max-width: 480px) {
+    .row-btta-cont {
+		width: 280px;
+	}
+	
+	#ns_mm_subtitle_text, #ns_mm_title_text, #ns_mm_footer_text, #ns_mm_background_image {
+		width: 280px;
+	}
+}

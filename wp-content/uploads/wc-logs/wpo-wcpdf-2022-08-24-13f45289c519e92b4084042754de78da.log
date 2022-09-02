@@ -1,0 +1,2 @@
+2022-08-24T23:48:18+00:00 INFO Template setting migrated from C:/xampp2/htdocs/koudijs_services/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-08-24T23:53:29+00:00 CRITICAL Table 'données_koudijs.koudijs_wcpdf_invoice_number' doesn't exist

@@ -1,0 +1,100 @@
+2022-08-28T10:19:51+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:19 AM (total time: 08:24:44)
+2022-08-28T10:25:15+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:25 AM (total time: 08:30:08)
+2022-08-28T10:31:18+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:31 AM (total time: 08:36:11)
+2022-08-28T10:36:30+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:36 AM (total time: 08:41:23)
+2022-08-28T10:43:10+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:43 AM (total time: 08:48:03)
+2022-08-28T10:48:19+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:48 AM (total time: 08:53:12)
+2022-08-28T10:53:49+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:53 AM (total time: 08:58:42)
+2022-08-28T10:59:24+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 10:59 AM (total time: 09:04:17)
+2022-08-28T11:04:26+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:04 AM (total time: 09:09:19)
+2022-08-28T11:10:27+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:10 AM (total time: 09:15:20)
+2022-08-28T11:15:47+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:15 AM (total time: 09:20:40)
+2022-08-28T11:20:50+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:20 AM (total time: 09:25:43)
+2022-08-28T11:25:53+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:25 AM (total time: 09:30:46)
+2022-08-28T11:31:54+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:31 AM (total time: 09:36:47)
+2022-08-28T11:37:11+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:37 AM (total time: 09:42:04)
+2022-08-28T11:42:21+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:42 AM (total time: 09:47:14)
+2022-08-28T11:48:09+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:48 AM (total time: 09:53:02)
+2022-08-28T11:54:16+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:54 AM (total time: 09:59:09)
+2022-08-28T11:59:18+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 11:59 AM (total time: 10:04:11)
+2022-08-28T12:35:07+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 12:35 PM (total time: 10:40:00)
+2022-08-28T12:37:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-08-28T12:40:58+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 12:40 PM (total time: 10:45:51)
+2022-08-28T12:48:38+00:00 ERROR api.list :: Error retrieving list for double_optin check
+2022-08-28T12:48:38+00:00 ERROR member.sync :: sibybakary522@gmail.com :: Error Code 500 :: CURL error :: Could not resolve host: us10.api.mailchimp.com on 2195 in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
+2022-08-28T12:49:56+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 12:49 PM (total time: 10:54:49)
+2022-08-28T13:54:36+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 1:54 PM (total time: 11:59:29)
+2022-08-28T14:00:37+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:00 PM (total time: 12:05:29)
+2022-08-28T14:06:39+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:06 PM (total time: 12:11:32)
+2022-08-28T14:11:56+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:11 PM (total time: 12:16:49)
+2022-08-28T14:16:58+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:16 PM (total time: 12:21:51)
+2022-08-28T14:22:47+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:22 PM (total time: 12:27:40)
+2022-08-28T14:28:13+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:28 PM (total time: 12:33:06)
+2022-08-28T14:33:48+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:33 PM (total time: 12:38:41)
+2022-08-28T14:38:55+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:38 PM (total time: 12:43:48)
+2022-08-28T14:44:57+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:44 PM (total time: 12:49:50)
+2022-08-28T14:51:00+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:51 PM (total time: 12:55:53)
+2022-08-28T14:57:03+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 2:57 PM (total time: 13:01:56)
+2022-08-28T15:03:07+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:03 PM (total time: 13:08:00)
+2022-08-28T15:09:09+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:09 PM (total time: 13:14:02)
+2022-08-28T15:15:13+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:15 PM (total time: 13:20:06)
+2022-08-28T15:21:20+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:21 PM (total time: 13:26:13)
+2022-08-28T15:27:22+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:27 PM (total time: 13:32:15)
+2022-08-28T15:33:25+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:33 PM (total time: 13:38:18)
+2022-08-28T15:39:27+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:39 PM (total time: 13:44:20)
+2022-08-28T15:45:06+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:45 PM (total time: 13:49:59)
+2022-08-28T15:50:10+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 3:50 PM (total time: 13:55:03)
+2022-08-28T17:53:40+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 5:53 PM (total time: 15:58:33)
+2022-08-28T17:58:41+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 5:58 PM (total time: 16:03:34)
+2022-08-28T18:04:13+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:04 PM (total time: 16:09:06)
+2022-08-28T18:11:29+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:11 PM (total time: 16:16:22)
+2022-08-28T18:17:33+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:17 PM (total time: 16:22:26)
+2022-08-28T18:23:35+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:23 PM (total time: 16:28:28)
+2022-08-28T18:29:38+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:29 PM (total time: 16:34:31)
+2022-08-28T18:35:42+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:35 PM (total time: 16:40:35)
+2022-08-28T18:41:29+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:41 PM (total time: 16:46:22)
+2022-08-28T18:47:04+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 6:47 PM (total time: 16:51:57)
+2022-08-28T19:22:00+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 7:22 PM (total time: 17:26:53)
+2022-08-28T19:27:18+00:00 NOTICE sync.completed :: Finished Sync :: Sun, Aug 28, 2022 7:27 PM (total time: 17:32:11)
+2022-08-28T22:03:31+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 1
+    [gdpr_fields] => 
+)
+
+2022-08-28T22:03:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-08-28T22:03:57+00:00 NOTICE member.sync :: Updated Member sibybakary522@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Sory
+            [LNAME] => bienvenue
+        )
+
+    [gdpr_fields] => 
+)
+
+2022-08-28T22:41:29+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 1
+    [user_id] => 1
+    [gdpr_fields] => 
+)
+
+2022-08-28T22:41:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-08-28T22:41:34+00:00 NOTICE member.sync :: Updated Member sibybakary522@gmail.com :: Array
+(
+    [status] => subscribed
+    [language] => 
+    [merge_fields] => Array
+        (
+            [FNAME] => Sory
+            [LNAME] => bienvenue
+        )
+
+    [gdpr_fields] => 
+)
+

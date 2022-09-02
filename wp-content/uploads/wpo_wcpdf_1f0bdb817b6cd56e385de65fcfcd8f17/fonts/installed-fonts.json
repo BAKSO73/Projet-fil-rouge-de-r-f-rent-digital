@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/OpenSans-Normal",
+        "bold": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/OpenSans-Bold",
+        "italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/Segoe-Normal",
+        "bold": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/Segoe-Bold",
+        "italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/currencies",
+        "bold": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/currencies",
+        "italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/currencies",
+        "bold_italic": "C:\/xampp2\/htdocs\/koudijs_services\/wp-content\/uploads\/wpo_wcpdf_1f0bdb817b6cd56e385de65fcfcd8f17\/fonts\/currencies"
+    }
+}

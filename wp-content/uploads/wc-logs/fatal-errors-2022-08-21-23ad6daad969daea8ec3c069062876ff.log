@@ -1,0 +1,8 @@
+2022-08-21T13:54:04+00:00 CRITICAL Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDOStatement.php:59
+Stack trace:
+#0 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDOStatement.php(59): PDOStatement->execute(NULL)
+#1 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\lib-3rd-party\Idiorm\idiorm.php(519): MailPoetVendor\Doctrine\DBAL\Driver\PDOStatement->execute()
+#2 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\lib-3rd-party\Idiorm\idiorm.php(1929): MailPoetVendor\Idiorm\ORM::_execute('SELECT `tasks`....', Array, 'default')
+#3 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\lib-3rd-party\Idiorm\idiorm.php(738): MailPoetVendor\Idiorm\ORM->_run()
+#4 C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\lib-3rd-party\Idiorm\idiorm.php(727): MailPoetVendor\Idiorm\ORM->_fin in C:\xampp2\htdocs\koudijs_services\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDO\Exception.php on line 10
+
